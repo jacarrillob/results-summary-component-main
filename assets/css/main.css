@@ -33,7 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-color: hsl(241, 81%, 54%);
+  background: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   border-radius: 0 0 1.5rem 1.5rem;
   padding: 2rem;
 }
@@ -48,7 +48,7 @@ body {
   height: 8rem;
   width: 8rem;
   border-radius: 50%;
-  background-color: hsl(234, 85%, 45%);
+  background: linear-gradient(to top, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 .summary-component-result__score-text {
   margin: 0;
